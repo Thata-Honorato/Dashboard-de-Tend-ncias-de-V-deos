@@ -60,7 +60,7 @@ Opcionalmente, todos os arquivos foram compactados em um **arquivo ZIP** para en
 
 ## Avaliação
 
-Meu projeto será avaliado com base em:
+Meu projeto foi avaliado com base em:
 
 - Correção e consistência dos dados carregados.  
 - Funcionalidade do dashboard interativo (filtros e gráficos).  
